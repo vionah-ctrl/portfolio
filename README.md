@@ -34,7 +34,7 @@ Instagram: @ivy_photographer
 
 
 
-Portfolio website:http//portfolio-three-azure-arlwnv0hq3.vercel.app
+Portfolio website:https://portfolio-three-azure-arlwnv0hq3.vercel.app/
 
 📍 Location & Availability
 
@@ -48,7 +48,7 @@ Open to local and international projects.
 
 For bookings, collaborations, or inquiries, reach out via email:
 
-📧 vionahwahu@gmail.com
+📧 ivyphotograph@gmail.com 
 
 Please include:
 
